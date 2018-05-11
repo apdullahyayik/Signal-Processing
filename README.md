@@ -1,4 +1,4 @@
-# Signal Processing (Basics)
+# Signal Processing (Self-Coded, Basics)
     SINE WAVES
     DOT PRODUCT
     TIME DOMAIN CONVULUTION
